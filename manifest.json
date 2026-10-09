@@ -1,0 +1,19 @@
+{
+  "name": "Student Companion",
+  "short_name": "Study Buddy",
+  "description": "Study planner, chapter PDF quiz and flashcards for students.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#080d1c",
+  "theme_color": "#080d1c",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
